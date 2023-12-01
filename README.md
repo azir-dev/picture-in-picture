@@ -2,6 +2,8 @@
 
 用户选择浏览器标签栏或是任务窗口|整个屏幕作为共享媒体流，可以实现画中画显示。
 
+在线预览 [GitHub Pages](https://azir-dev.github.io/picture-in-picture/)
+
 ## 要点文档
 
 - [MediaSteam 相关 API](https://developer.mozilla.org/zh-CN/docs/Web/API/MediaStream)
